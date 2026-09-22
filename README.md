@@ -90,5 +90,5 @@ src/
 ## Contact
 
 - **Email**: yoefanto@gmail.com
-- **WhatsApp**: [+62 819 9100 0304](https://wa.me/6281991000304)
+- **WhatsApp**: [Click to start conversation](https://wa.me/6281991000304)
 - **LinkedIn**: [linkedin.com/in/yoefanto](https://linkedin.com/in/yoefanto)
