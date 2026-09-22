@@ -18,7 +18,7 @@ export const portfolioData: PortfolioData = {
     location: "Jakarta, Indonesia",
     email: "yoefanto@gmail.com",
     phone: "+62 819 9100 0304",
-    whatsappUrl: "https://wa.me/6281991000304",
+    whatsappUrl: "https://wa.me/+6281991000304",
     avatarUrl: "/images/profile.jpg",
     resumeUrl: "/cv-yogi-febrianto.pdf",
     portfolioUrl: "",
@@ -30,7 +30,7 @@ export const portfolioData: PortfolioData = {
   socials: [
     { name: "LinkedIn", url: "https://linkedin.com/in/yoefanto", icon: "Linkedin", label: "linkedin.com/in/yoefanto" },
     { name: "Email", url: "mailto:yoefanto@gmail.com", icon: "Mail", label: "yoefanto@gmail.com" },
-    { name: "WhatsApp", url: "https://wa.me/6281991000304", icon: "Phone", label: "+62 819 9100 0304" },
+    { name: "WhatsApp", url: "https://wa.me/+6281991000304", icon: "Phone", label: "+62 819 9100 0304" },
   ],
   metrics: [
     {
