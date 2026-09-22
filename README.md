@@ -1,6 +1,6 @@
-# Yogi Febrianto – Personal Portfolio & Architecture Showcase
+# Personal Portfolio & Architecture Showcase
 
-A production-grade personal portfolio built with **Next.js** (App Router), **TypeScript**, and **Tailwind CSS**, highlighting the experience, engineering leadership, and architecture case studies of **Yogi Febrianto** — Senior Full-Stack Architect & Engineering Leader with 13+ years of experience.
+A production-grade personal portfolio built with **Next.js** (App Router), **TypeScript**, and **Tailwind CSS**, highlighting the experience, engineering leadership, and architecture case studies of Senior Full-Stack Architect & Engineering Leader with 13+ years of experience.
 
 ## Key Highlights
 

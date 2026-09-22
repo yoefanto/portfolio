@@ -1,6 +1,6 @@
-# Yogi Febrianto Portfolio – Technical Walkthrough & Maintenance Guide
+# Portfolio – Technical Walkthrough & Maintenance Guide
 
-This document explains the architecture, file organization, bilingual internationalization system, dynamic routing, and maintenance workflows for the **Yogi Febrianto** portfolio.
+This document explains the architecture, file organization, bilingual internationalization system, dynamic routing, and maintenance workflows for the portfolio.
 
 ---
 
