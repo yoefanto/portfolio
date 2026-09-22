@@ -1,12 +1,12 @@
-# Yogi Febrianto Portfolio – Comprehensive Implementation Plan
+# Portfolio – Comprehensive Implementation Plan
 
-An end-to-end technical implementation plan detailing the architecture, engineering decisions, and phased development roadmap of the **Yogi Febrianto** personal portfolio and enterprise architecture showcase.
+An end-to-end technical implementation plan detailing the architecture, engineering decisions, and phased development roadmap for personal portfolio and enterprise architecture showcase.
 
 ---
 
 ## Executive Summary & Objectives
 
-The goal of this project is to build a high-performance, visually stunning, production-grade personal portfolio and engineering leadership showcase for **Yogi Febrianto** (Senior Full-Stack Architect & Engineering Leader with 13+ years of experience).
+The goal of this project is to build a high-performance, visually stunning, production-grade personal portfolio and engineering leadership showcase for Senior Full-Stack Architect & Engineering Leader with 13+ years of experience.
 
 ### Core Requirements
 1. **Visual Excellence**: Modern dark-mode aesthetic with refined glassmorphism, ambient gradient glows, and purposeful micro-interactions.

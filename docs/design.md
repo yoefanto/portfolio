@@ -1,6 +1,6 @@
-# Yogi Febrianto Portfolio – Design Document
+# Portfolio – Design Document
 
-This document outlines the visual design system, color palette, typography, component guidelines, and interaction patterns for the **Yogi Febrianto** portfolio.
+This document outlines the visual design system, color palette, typography, component guidelines, and interaction patterns for the portfolio.
 
 ---
 
