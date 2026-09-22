@@ -117,7 +117,7 @@ export default function Hero() {
                   <Mail className="w-4 h-4" />
                 </a>
                 <a
-                  href="https://wa.me/6281991000304"
+                  href="https://wa.me/+6281991000304"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="WhatsApp Contact"
