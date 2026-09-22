@@ -114,4 +114,32 @@ export interface PortfolioData {
   skills: SkillCategory[];
   education: EducationItem[];
   certifications: CertificationItem[];
+  rateCard?: RateCardData;
+}
+
+export interface RateCardPackage {
+  title: Translatable<string>;
+  duration: Translatable<string>;
+  price: Translatable<string>;
+  scope: Translatable<string>;
+  popular?: boolean;
+}
+
+export interface RetainerRate {
+  title: Translatable<string>;
+  rate: Translatable<string>;
+  details: Translatable<string>;
+}
+
+export interface TermSection {
+  title: Translatable<string>;
+  items: Translatable<string>[];
+}
+
+export interface RateCardData {
+  title: Translatable<string>;
+  subtitle: Translatable<string>;
+  packages: RateCardPackage[];
+  retainers: RetainerRate[];
+  terms: TermSection[];
 }

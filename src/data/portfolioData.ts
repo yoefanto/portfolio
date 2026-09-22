@@ -688,4 +688,180 @@ export const portfolioData: PortfolioData = {
     { title: "Oracle Database 10g: Admin 1 & 2", issuer: "PT. Jurnalindo Aksara Grafika", year: "2013" },
     { title: "Building Mobile Commerce Solution & Basic User Linux", issuer: "Gunadarma University", year: "2009 & 2011" },
   ],
+  rateCard: {
+    title: {
+      en: "Rate Card & IT Services",
+      id: "Rate Card & Layanan IT",
+    },
+    subtitle: {
+      en: "Custom & high-performance web solutions, clean architecture, enterprise reliability, and flexible retainer options tailored to your business needs.",
+      id: "Solusi web kustom berkinerja tinggi, arsitektur bersih, keandalan enterprise, dan opsi retainer fleksibel yang disesuaikan dengan kebutuhan bisnis Anda.",
+    },
+    packages: [
+      {
+        title: {
+          en: "Micro Package (Single Page)",
+          id: "Paket Micro (Single Page)",
+        },
+        duration: {
+          en: "1 - 3 Days",
+          id: "1 - 3 Hari",
+        },
+        price: {
+          en: "Starts from IDR 600,000",
+          id: "Mulai dari Rp 600.000",
+        },
+        scope: {
+          en: "1 static page (Product Landing Page, Bio Link, or Portfolio). No database or user authentication. Very strict scope.",
+          id: "1 halaman statis (Landing Page produk, Link Bio, atau Portofolio). Tanpa basis data atau autentikasi pengguna. Cakupan sangat terarah.",
+        },
+        popular: false,
+      },
+      {
+        title: {
+          en: "Landing Page / Company Profile",
+          id: "Landing Page / Profil Perusahaan",
+        },
+        duration: {
+          en: "1 - 2 Weeks",
+          id: "1 - 2 Minggu",
+        },
+        price: {
+          en: "IDR 1,500,000 – 5,000,000",
+          id: "Rp 1.500.000 – Rp 5.000.000",
+        },
+        scope: {
+          en: "Multi-page business website (5-7 static pages e.g. Home, About, Services, Contact). Fundamental SEO optimization and analytics integration.",
+          id: "Website bisnis multi-halaman (5-7 halaman statis seperti Beranda, Tentang Kami, Layanan, Kontak). Optimasi SEO dasar dan integrasi analitik.",
+        },
+        popular: true,
+      },
+      {
+        title: {
+          en: "Custom Web App / E-Commerce",
+          id: "Aplikasi Web Kustom / E-Commerce",
+        },
+        duration: {
+          en: "3 - 6 Weeks",
+          id: "3 - 6 Minggu",
+        },
+        price: {
+          en: "IDR 5,000,000 – 25,000,000",
+          id: "Rp 5.000.000 – Rp 25.000.000",
+        },
+        scope: {
+          en: "Dynamic web application with relational database (PostgreSQL/MySQL), role-based authentication, admin content management dashboard, and payment gateway integration.",
+          id: "Aplikasi web dinamis dengan basis data relasional (PostgreSQL/MySQL), sistem peran & login, dasbor admin kelola konten, dan integrasi payment gateway.",
+        },
+        popular: false,
+      },
+      {
+        title: {
+          en: "Enterprise / Complex System",
+          id: "Sistem Enterprise & Skala Kompleks",
+        },
+        duration: {
+          en: "2+ Months",
+          id: "2 Bulan+",
+        },
+        price: {
+          en: "IDR 26,000,000+ (Custom Quotation)",
+          id: "Rp 26.000.000+ (Sesuai Penawaran)",
+        },
+        scope: {
+          en: "Large-scale systems, multi-API integrations, high-volume database tuning, containerized microservices, and enterprise security compliance.",
+          id: "Sistem skala besar, integrasi multi-API, optimasi basis data berkapasitas tinggi, kontainerisasi microservices, dan kepatuhan standar keamanan enterprise.",
+        },
+        popular: false,
+      },
+    ],
+    retainers: [
+      {
+        title: {
+          en: "Hourly Rate",
+          id: "Tarif Per Jam",
+        },
+        rate: {
+          en: "IDR 200,000 – 400,000 / hour",
+          id: "Rp 200.000 – Rp 400.000 / jam",
+        },
+        details: {
+          en: "Best for: urgent bug fixing, system architecture consultation, infrastructure tuning, or rapid code reviews.",
+          id: "Cocok untuk: perbaikan bug mendesak, konsultasi arsitektur sistem, optimasi infrastruktur, atau peninjauan kode kilat.",
+        },
+      },
+      {
+        title: {
+          en: "Tech Lead / Consultant Retainer (Monthly)",
+          id: "Retainer Tech Lead / Konsultan (Bulanan)",
+        },
+        rate: {
+          en: "IDR 7,500,000 – 15,000,000 / month",
+          id: "Rp 7.500.000 – Rp 15.000.000 / bulan",
+        },
+        details: {
+          en: "Scope: up to 15-25 hours/week. Focus on technical leadership, sprint planning, system architecture design, and engineering best practices.",
+          id: "Cakupan: hingga 15-25 jam per minggu. Fokus pada supervisi tim teknis, perencanaan sprint, perancangan arsitektur sistem, dan tata kelola kualitas kode.",
+        },
+      },
+    ],
+    terms: [
+      {
+        title: {
+          en: "Micro Package Special Conditions",
+          id: "Ketentuan Khusus Paket Micro",
+        },
+        items: [
+          {
+            en: "All assets (logos, images, copywriting text) must be fully provided by the client prior to project kickoff.",
+            id: "Semua aset berupa logo, gambar, dan teks (copywriting) wajib disediakan lengkap oleh pihak klien sebelum pengerjaan dimulai.",
+          },
+          {
+            en: "Includes up to 2 minor revision cycles (color palette, typography, slight element adjustments).",
+            id: "Mencakup maksimal 2 kali revisi minor (penyesuaian warna, jenis huruf, atau pergeseran elemen kecil).",
+          },
+          {
+            en: "Does not include free post-launch maintenance warranty.",
+            id: "Tidak mencakup garansi pemeliharaan gratis setelah website online.",
+          },
+        ],
+      },
+      {
+        title: {
+          en: "Payment Terms",
+          id: "Ketentuan Pembayaran",
+        },
+        items: [
+          {
+            en: "Phased payments: 50% Down Payment (DP) prior to kickoff, 30% upon mid-milestone (staging development complete), and 20% final balance before production server deployment.",
+            id: "Pembayaran bertahap: Down Payment (DP) 50% sebelum proyek dimulai, 30% setelah milestone tengah (fase development selesai di staging), dan 20% pelunasan sebelum deployment ke server produksi klien.",
+          },
+        ],
+      },
+      {
+        title: {
+          en: "Third-Party Fees",
+          id: "Biaya Layanan Pihak Ketiga",
+        },
+        items: [
+          {
+            en: "Domains, cloud hosting/VPS (AWS, DigitalOcean, GCP), payment gateway merchant fees, and third-party paid APIs are billed directly to and covered by the client.",
+            id: "Biaya sewa domain, cloud hosting/VPS (AWS, DigitalOcean, GCP), merchant fee payment gateway, dan API berbayar lainnya ditanggung sepenuhnya oleh pihak klien.",
+          },
+        ],
+      },
+      {
+        title: {
+          en: "Warranty & Support",
+          id: "Garansi & Pemeliharaan",
+        },
+        items: [
+          {
+            en: "Complimentary 1-month bug fixing support post-handover (not applicable to the Micro Package).",
+            id: "Dukungan perbaikan bug gratis selama 1 bulan setelah serah terima proyek (tidak berlaku untuk Paket Micro).",
+          },
+        ],
+      },
+    ],
+  },
 };
