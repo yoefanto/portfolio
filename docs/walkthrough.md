@@ -76,7 +76,7 @@ LanguageProvider (layout.tsx)
 | `Hero.tsx` | Introduction headline, profile image, status pill, CV download, and quick contact |
 | `Stats.tsx` | Key achievement metrics (13+ years, 10M+ readers, 100% modernization) |
 | `About.tsx` | Professional summary and 3 core architectural pillars |
-| `Experience.tsx` | Vertical career journey timeline spanning 13+ years at Bisnis Indonesia Group |
+| `Experience.tsx` | Vertical career journey timeline spanning 13+ years |
 | `Projects.tsx` | Filterable project catalog with deep links to comprehensive case studies |
 | `Skills.tsx` | Categorized technical competency matrix across 5 engineering domains |
 | `EducationCertifications.tsx` | Academic history and 6 verified professional certifications |

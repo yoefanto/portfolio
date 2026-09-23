@@ -50,7 +50,7 @@ export default function Hero() {
 
             {/* Subheading / Role */}
             <p className="text-lg sm:text-xl font-medium text-zinc-300 mb-5 leading-relaxed">
-              {personal.title[lang]} {lang === "en" ? "at" : "di"} Bisnis Indonesia Group
+              {personal.title[lang]}
             </p>
 
             {/* Elevator Pitch */}

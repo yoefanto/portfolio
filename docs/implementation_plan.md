@@ -108,7 +108,7 @@ Construct 11 modular, responsive components under `src/components/`:
 4. **`About.tsx`**:
    - Professional summary and 3 core engineering leadership pillars (Enterprise Architecture, System Reliability, AI-Accelerated DevOps).
 5. **`Experience.tsx`**:
-   - Vertical interactive timeline illustrating career progression across 13+ years at Bisnis Indonesia Group.
+   - Vertical interactive timeline illustrating career progression across 13+ years.
 6. **`Projects.tsx`**:
    - Filterable project grid with category tabs (Enterprise System, High-Traffic Media, Web Modernization, DevOps).
    - Card summaries with tech tags and direct links to full case studies (`/projects/[id]`).
