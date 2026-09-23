@@ -26,7 +26,7 @@ A production-grade personal portfolio built with **Next.js** (App Router), **Typ
 2. **Hero Section** – Role, value proposition, compact professional profile image, and quick contact channels.
 3. **Metrics & Impact** – High-level career achievements (13+ years experience, 10M+ monthly scale, 100% modernized architecture).
 4. **About & Leadership Pillars** – Core competencies in enterprise architecture, high-availability systems, and AI-accelerated DevOps.
-5. **Career Journey / Experience** – Interactive timeline tracking 13+ years of leadership and engineering milestones at Bisnis Indonesia Group.
+5. **Career Journey / Experience** – Interactive timeline tracking 13+ years of leadership and engineering milestones.
 6. **Featured Projects** – Category-filtered cards with navigation to comprehensive deep-dive case studies.
 7. **Project Detail Pages (`/projects/[id]`)** – Full architectural case studies covering enterprise HRIS/ERP, media portal optimization, recruitment CMS modernization, and multi-repo Docker WSL environments.
 8. **Skills Matrix** – Categorized competency grid across full-stack, APIs, databases, DevOps, and enterprise methodology.
