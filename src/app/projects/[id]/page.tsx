@@ -17,9 +17,46 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { id } = await params;
   const project = portfolioData.projects.find((p) => p.id === id);
   if (!project) return { title: "Project Not Found – Yogi Febrianto" };
+
+  const pageUrl = `https://yoefanto.web.id/projects/${project.id}`;
+  const title = `${project.title} | Case Study by Yogi Febrianto`;
+  const description = project.description.id || project.description.en;
+
   return {
-    title: `${project.title} – Yogi Febrianto`,
-    description: project.description.en,
+    title,
+    description,
+    keywords: [
+      project.title,
+      ...project.techStack,
+      "Yogi Febrianto",
+      "System Architecture",
+      "Case Study",
+      "Enterprise Modernization"
+    ],
+    alternates: {
+      canonical: pageUrl,
+    },
+    openGraph: {
+      type: "article",
+      locale: "id_ID",
+      alternateLocale: "en_US",
+      url: pageUrl,
+      title,
+      description,
+      siteName: "Yogi Febrianto Portfolio",
+      images: [
+        {
+          url: "/images/profile.jpg",
+          alt: project.title,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: ["/images/profile.jpg"],
+    },
   };
 }
 
