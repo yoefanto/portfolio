@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# GSD & Antigravity Local Dev Tools
+.agent/
+.agents/
+.gemini/
+.gsd/
+adapters/
+scripts/
+PROJECT_RULES.md
+GSD-STYLE.md
+model_capabilities.yaml
+
